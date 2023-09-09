@@ -63,8 +63,6 @@ const GridCell = styled.div`
       case 30:
       case 38:
       case 46:
-      case 37:
-      case 45:
         return "background-color: lime;";
       case 14:
       case 15:
